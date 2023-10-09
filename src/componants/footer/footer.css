@@ -1,0 +1,9 @@
+.footer-bottom{
+    height:80px
+}
+a{
+    font-size: 25px;
+    color: aliceblue;
+    /* gap: 10px !important; */
+    padding: 0;
+}

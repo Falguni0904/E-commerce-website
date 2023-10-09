@@ -1,0 +1,12 @@
+.main{
+    max-width: 500px;
+    height: 100vh;
+}
+
+.payment-form{
+    height: 35rem;
+}
+
+.submitBtn{
+    width: 100px;
+}
